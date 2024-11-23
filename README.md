@@ -1,0 +1,1 @@
+source code of pvg bot in social network vkontakte with erased sql queries and some confidential info
